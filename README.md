@@ -1,16 +1,31 @@
-### Hi there 👋
+# My Bio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-<!--
-**d4nieru/d4nieru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/heros/images/7/7e/Kobayashi_Infobox.png/revision/latest/scale-to-width-down/672?cb=20210507124127&path-prefix=fr" width="25%">
+  <br>
+  <h3 align="center">Hi, I'm d4nieru 😊</h3>
+</p>
 
-Here are some ideas to get you started:
+<details>
+  <summary> <b> 🎲 About me </b> <i>-=Click here=-</i> </summary>
+  <br>
+  <ul>
+    <li>🏝️ Currently living in France.</li>
+    <li>👨‍🎓 I'm a student.</li>
+    <li>🖥️ Founder & Admin on <strong>DarwozNetwork</strong> (not opened yet).</li>
+    <li>🔮 Currently learning <strong>Procrastination...</strong> (yeah i know, i'm not proud of it).</li>
+    <li>💬 Big Fan of Video Games, Anime/Manga and passionate about computer science.</li>
+  </ul>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary> <b> :octocat: My Github Statistics </b> <i>-=Click here=-</i> </summary>
+  <br>
+  </a>
+  <a href="https://github.com/d4nieru">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=d4nieru&show_icons=true&theme=dark&line_height=28&count_private=true&include_all_commits=true" alt="d4nieru @ Github stats"/>
+  </a>
+  <a href="https://github.com/d4nieru">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nieru&theme=dark&layout=compact&langs_count=10" />
+  </a>
+</details>
