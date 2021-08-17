@@ -13,7 +13,7 @@
     <li>🏝️ Currently living in France.</li>
     <li>👨‍🎓 I'm a student.</li>
     <li>🖥️ Founder & Admin on <strong>DarwozNetwork</strong> (not opened yet).</li>
-    <li>🔮 Currently learning <strong>Procrastination...</strong> (yeah i know, i'm not proud of it).</li>
+    <li>🔮 Currently learning <strong>C#</strong> (yeah i know, i'm not proud of it).</li>
     <li>💬 Big Fan of Video Games, Anime/Manga and passionate about computer science.</li>
   </ul>
 </details>
