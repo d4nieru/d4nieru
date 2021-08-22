@@ -21,7 +21,6 @@
 <details>
   <summary> <b> :octocat: My Github Statistics </b> <i>»Click here«</i> </summary>
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4nieru&exclude_repo=github-readme-stats,FestivalPlannerSimA3&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   </a>
   <a href="https://github.com/d4nieru">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=d4nieru&show_icons=true&theme=dark&line_height=28&count_private=true&include_all_commits=true" alt="d4nieru @ Github stats"/>
