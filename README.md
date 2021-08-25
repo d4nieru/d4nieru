@@ -13,7 +13,7 @@
     <li>🏝️ Currently living in France.</li>
     <li>👨‍🎓 I'm a student.</li>
     <li>🖥️ Founder & Admin on <strong>DarwozNetwork</strong> (not opened yet).</li>
-    <li>🔮 Currently learning <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="25"> (I also plan to learn <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="25">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="25">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="25">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="25">).</li>
+    <li>🔮 Currently learning <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="25"> (I also plan to learn <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="25">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="25">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="25">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="25">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="25">).</li>
     <li>💬 Big Fan of Video Games, Anime/Manga and passionate about computer science.</li>
   </ul>
 </details>
