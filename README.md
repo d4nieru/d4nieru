@@ -1,19 +1,21 @@
 # My Bio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/heros/images/7/7e/Kobayashi_Infobox.png/revision/latest/scale-to-width-down/672?cb=20210507124127&path-prefix=fr" width="25%">
-  <br>
-  <h3 align="center">Hi, I'm d4nieru 😊</h3>
-</p>
+  <h3 align="center">Hi, I'm Daniel 😊</h3>
 
 <details>
   <summary> <b> 🎲 About me </b> <i>»Click here«</i> </summary>
   <br>
   <ul>
-    <li>👨‍🎓 I am a first year computer science student.</li>
-    <li>🖥️ Founder & Admin on <strong>DarwozNetwork</strong> (not opened yet).</li>
-    <li>🔮 Currently learning <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png?raw=true" height="25"> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png?raw=true" height="25"> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.png?raw=true" height="25"> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php.png?raw=true" height="25"> (I also plan to learn <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png?raw=true" height="25"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="25"> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png?raw=true" height="25"> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.png?raw=true" height="25">).</li>
-    <li>💬 Fan of Video Games, Anime/Manga and Computer Science.</li>
+    <li>👨‍🎓 First year computer science student</li>
+    <li>🔮 Languages and Tools : 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25"></li>
+    <li>💬 Fan of Video Games, Anime/Manga</li>
   </ul>
 </details>
 
