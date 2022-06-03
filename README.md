@@ -19,6 +19,8 @@
 <div align="center"><h2> :octocat: My Github Statistics </h2></div>
 <br>
   <a href="https://github.com/d4nieru">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nieru&layout=compact&theme=dark" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=d4nieru&show_icons=true&theme=dark&line_height=28&count_private=true&include_all_commits=true" alt="d4nieru @ Github stats"/>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nieru&layout=compact&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api?username=d4nieru&show_icons=true&theme=dark&line_height=28&count_private=true&include_all_commits=true" alt="d4nieru @ Github stats"/>
+    </div>
 </a>
