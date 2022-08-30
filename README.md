@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel 🗡️</h1>
-<h4 align="center">👨‍🎓 First year computer science student</h4>
+<h4 align="center">👨‍🎓 Second year computer science student</h4>
 <br>
 <div align="center"><h2>🔮 Languages & Technologies</h2></div>
 <br>
